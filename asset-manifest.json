@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fruitspawn/static/css/main.073c9b0a.css",
+    "main.js": "/fruitspawn/static/js/main.0002cb09.js",
+    "static/js/787.d3befce1.chunk.js": "/fruitspawn/static/js/787.d3befce1.chunk.js",
+    "index.html": "/fruitspawn/index.html",
+    "main.073c9b0a.css.map": "/fruitspawn/static/css/main.073c9b0a.css.map",
+    "main.0002cb09.js.map": "/fruitspawn/static/js/main.0002cb09.js.map",
+    "787.d3befce1.chunk.js.map": "/fruitspawn/static/js/787.d3befce1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.0002cb09.js"
+  ]
+}
